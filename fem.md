@@ -1,6 +1,8 @@
 ---
 title: Feminization
 description: How to girlmode.
+permalink: /hrt/
+
 ---
 
 <details>
