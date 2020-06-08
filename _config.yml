@@ -5,10 +5,10 @@ title: Estrogen.rocks
 #  google: verification-here
 tagline: MtF Resource Aggregate
 description: MtF Resource Aggregate
-email: estrogenrocks+s@protonmail.com
+email: estrogenrocks@protonmail.com
 theme: jekyll-theme-midnight
 show_downloads: false
-safe: true
+safe: true #to make sure github stuff works
 markdown: CommonMarkGhPages # used to make code blocks inside of details+summary
 plugins:
   - jekyll-seo-tag #works with github pages

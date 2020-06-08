@@ -1,7 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
 - name: HRT
   link: /hrt/
+- name: About
+  link: /about/
+
 # fill out more nav stuff

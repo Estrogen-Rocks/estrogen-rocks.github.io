@@ -1,16 +1,47 @@
 ---
 title: HRT
-description: Get your titty Skittles here
+description: Make a woman out of yourself.
 permalink: /hrt/
 ---
 <details>
-  <summary>/hrtgen/ Sticky - Click to expand!</summary>
+  <summary>Intro to the Pharmacology of transition - Click to expand</summary>
   
-This is found here: [https://pastebin.com/LyMhFmT4](https://pastebin.com/LyMhFmT4)
+  [https://male-to-female.org/en/mtf_pharmacology](https://male-to-female.org/en/mtf_pharmacology)
+  
+  (The latest version can be found here: [https://n2t.net/ark:21206/10003](https://n2t.net/ark:21206/10003))
+  
+  
+  This website has an analysis of HRT, its effects, and lists various studies that explore hormone therapy.
+  There are also a few articles about cosmetic surgery, miscellaneous scientific information, 
+  and a few papers and essays on self surgery (both cosmetic and gender-affirming). 
+  Essentially, this is a website for the academic transgirl.
+  
+  [https://male-to-female.org/en/index](https://male-to-female.org/en/index) (Permalink: [https://n2t.net/ark:21206/10029](https://n2t.net/ark:21206/10029))
+  
+  
+  If philosophy, and the philosophy of your transition interest you, this site also provides an analysis.
+  
+  [https://male-to-female.org/en/philosophy](https://male-to-female.org/en/philosophy) (Permalink: [https://n2t.net/ark:21206/10002](https://n2t.net/ark:21206/10002))
+  
+  **There is a spanish version of the site!**
+  
+  https://male-to-female.org/es
+</details>
 
-  ```diff
+
+
+<details>
+  <summary>/hrtgen/ Sticky - Click to expand</summary>
+This is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
+It links off to r/transDIY, so if you prefer, you can ask your questions on reddit. 
+
+**Please read the wiki first.**
+[https://www.reddit.com/r/TransDIY/wiki/index](https://www.reddit.com/r/TransDIY/wiki/index)  
   
   
+The original copy of the sticky is here: https://pastebin.com/LyMhFmT4
+
+```diff
 Please take the survey and help us determine the best medications, 
 dosages, and treatment regime to get the results we want.
    
@@ -38,12 +69,46 @@ dosages, and treatment regime to get the results we want.
   + Lab test guide: https://www.healthcare.uiowa.edu/path_handbook/index.html
   + FtM HRT: http://www.ftmguide.org/ttypes.html
   + /HRTGen/ Archives: https://1drv.ms/w/s!AudRJceTA5C9fiPMDzSLX7xF9MI
-  ```
+```
 </details>
 
 
-### How to Self-Inject
 
-https://www.walgreens.com/images/adaptive/pharmacy/specialty-pharmacy/SP14267-Injection_PatEd_sprd.pdf
+<details>
+  <summary>How to Self-Inject - Click to Expand</summary>
+  Your physician will probably already have guidelines and 
+  FDA Approved guide for using syringes, sharps, and needles:
+  
+  [Safely using Sharps.](https://www.fda.gov/medical-devices/consumer-products/safely-using-sharps-needles-and-syringes-home-work-and-travel)
+  
+  The FDA link also has a few PDF's at the bottom which link to more info as to how to dispose of sharps and sharp containers. 
+  
+  [Handling and disposing of Sharps](https://ehs.unl.edu/sop/s-bio-sharps-handling_disposing.pdf)
+  
+  Self Injections: 
+  Specifically for hormones:
+  https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf
+  
+  General-Use
+  https://www.walgreens.com/images/adaptive/pharmacy/specialty-pharmacy/SP14267-Injection_PatEd_sprd.pdf
+
+</details>
+
+<details>
+  <summary>Homebrewing HRT - Click to Expand</summary>
+   
+   # Disclaimer - We do not endorse this information. 
+   ## This site is NOT responsible in any way, shape, or form for any and all results if you chose to follow this advice. However, we understand that desperate times may call for desperate measures, so these links will remain here. 
+  
+   [HRT Homebrewing by nerotard.](https://gist.github.com/nerotard/f9fb97d0bbb135f56d73c521b5bb2b2b#file-hrt-homebrewing-by-nerotard-gc)
+   
+   This guide seems to have been adapted from r/steroids. If you must do this, then do your research and read their wiki. Most of the information is for bodybuilders bulking up, but the information is still relevant.
+   
+   [https://www.reddit.com/r/steroids/wiki/index](https://www.reddit.com/r/steroids/wiki/index)
+   
+   
+</details>
+
+
 
 
