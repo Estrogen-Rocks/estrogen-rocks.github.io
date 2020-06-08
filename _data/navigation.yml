@@ -2,6 +2,9 @@
   link: /
 - name: HRT
   link: /hrt/
+- name: Feminization
+  link: /fem/
+# About should be last.
 - name: About
   link: /about/
 

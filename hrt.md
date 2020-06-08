@@ -10,7 +10,7 @@ permalink: /hrt/
    
    He hates Spironolactone, and gives a good reason why. (46:52 in the lecture)
    
-   Please watch all of the lecture if you have time, its very informative. If you skip through you will miss crucial info.
+   Please watch the entire lecture if you have time, its very informative. If you skip through you will miss useful info.
    
    If you **must** skip ahead, **30:33 - 1:02:00** is where MtF information comes up.
     
@@ -59,7 +59,7 @@ It links off to r/transDIY, so if you prefer, you can ask your questions on redd
 [https://www.reddit.com/r/TransDIY/wiki/index](https://www.reddit.com/r/TransDIY/wiki/index)  
   
   
-The original copy of the sticky is here: https://pastebin.com/LyMhFmT4
+The original copy of the sticky is here: [https://pastebin.com/LyMhFmT4](https://pastebin.com/LyMhFmT4)
 
 ```diff
 Please take the survey and help us determine the best medications, 
