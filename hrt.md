@@ -1,8 +1,28 @@
 ---
-title: HRT
+title: Hormone Replacement Therapy
 description: Make a woman out of yourself.
 permalink: /hrt/
 ---
+
+<details>
+  <summary>The Powers Method - Click to Expand</summary>
+   Dr. Powers seems to know his stuff, and lots of people report excellent results using his hormone regimen.
+   
+   He hates Spironolactone, and gives a good reason why. (46:52 in the lecture)
+   
+   Please watch all of the lecture if you have time, its very informative. If you skip through you will miss crucial info.
+   
+   If you **must** skip ahead, **30:33 - 1:02:00** is where MtF information comes up.
+    
+   His Lecture Slides: [download link.](https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx)
+   
+   His Lecture Video: [https://www.youtube.com/watch?v=fefu33e8O-0](https://www.youtube.com/watch?v=fefu33e8O-0)
+    
+     
+</details>
+
+---
+
 <details>
   <summary>Intro to the Pharmacology of transition - Click to expand</summary>
   
@@ -25,10 +45,10 @@ permalink: /hrt/
   
   **There is a spanish version of the site!**
   
-  https://male-to-female.org/es
+  [https://male-to-female.org/es](https://male-to-female.org/es)
 </details>
 
-
+---
 
 <details>
   <summary>/hrtgen/ Sticky - Click to expand</summary>
@@ -72,12 +92,14 @@ dosages, and treatment regime to get the results we want.
 ```
 </details>
 
-
+---
 
 <details>
   <summary>How to Self-Inject - Click to Expand</summary>
-  Your physician will probably already have guidelines and 
-  FDA Approved guide for using syringes, sharps, and needles:
+  Your physician will probably already have guidelines and instructions for you, but sometimes your doctor is sucky.
+  
+  
+  ### FDA Approved guide for using syringes, sharps, and needles:
   
   [Safely using Sharps.](https://www.fda.gov/medical-devices/consumer-products/safely-using-sharps-needles-and-syringes-home-work-and-travel)
   
@@ -85,14 +107,16 @@ dosages, and treatment regime to get the results we want.
   
   [Handling and disposing of Sharps](https://ehs.unl.edu/sop/s-bio-sharps-handling_disposing.pdf)
   
-  Self Injections: 
-  Specifically for hormones:
-  https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf
+  ### Self Injections: 
   
-  General-Use
-  https://www.walgreens.com/images/adaptive/pharmacy/specialty-pharmacy/SP14267-Injection_PatEd_sprd.pdf
-
+  #### Specifically for hormones:
+  [https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf](https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf)
+  
+  #### General-Use
+  [https://www.walgreens.com/images/adaptive/pharmacy/specialty-pharmacy/SP14267-Injection_PatEd_sprd.pdf](  https://www.walgreens.com/images/adaptive/pharmacy/specialty-pharmacy/SP14267-Injection_PatEd_sprd.pdf)
 </details>
+
+---
 
 <details>
   <summary>Homebrewing HRT - Click to Expand</summary>
@@ -105,7 +129,6 @@ dosages, and treatment regime to get the results we want.
    This guide seems to have been adapted from r/steroids. If you must do this, then do your research and read their wiki. Most of the information is for bodybuilders bulking up, but the information is still relevant.
    
    [https://www.reddit.com/r/steroids/wiki/index](https://www.reddit.com/r/steroids/wiki/index)
-   
    
 </details>
 
