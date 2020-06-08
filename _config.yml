@@ -1,0 +1,14 @@
+title: Estrogen.rocks
+# url:https://estrogen.rocks
+# google_analytics put-it-here
+#webmaster_verifications:
+#  google: verification-here
+tagline: MtF Resource Aggregate
+description: MtF Resource Aggregate
+email: estrogenrocks+s@protonmail.com
+theme: jekyll-theme-midnight
+show_downloads: false
+safe: true
+markdown: CommonMarkGhPages # used to make code blocks inside of details+summary
+plugins:
+  - jekyll-seo-tag #works with github pages
