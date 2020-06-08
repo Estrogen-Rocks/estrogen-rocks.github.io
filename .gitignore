@@ -5,4 +5,5 @@ _site/
 Gemfile
 Gemfile.lock
 notes.txt
+todo.txt
 .idea/
