@@ -34,6 +34,20 @@
 </script>
 </head>
 <body>
+
+<footer class="footer-distributed">
+
+    <div class="footer-center">
+        Estrogen.rocks |
+        {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #49109d;"{% endif %}>
+            {{ item.name }}
+        </a>
+        |
+        {% endfor %}
+    </div>
+</footer>
+
 <div id="header">
     <nav>
         <li class="fork">{{ site.title }}</li>
@@ -45,6 +59,8 @@
 
     </nav>
 </div><!-- end header -->
+
+
 
 <div class="wrapper">
 
@@ -60,6 +76,8 @@
     </section>
 
 </div>
+
+
 
 {% if site.google_analytics %}
 <script>
