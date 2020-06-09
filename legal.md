@@ -1,5 +1,9 @@
 ---
 title: Legal Stuff
-description: Document Changes, Laws, and the link.
+description: Document Changes, Laws, and the like.
 permalink: /legal/
 ---
+
+
+
+hi
