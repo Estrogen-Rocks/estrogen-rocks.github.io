@@ -99,6 +99,6 @@ It's natural to feel strongly about things
 at some times and feel less at others.
 ```
 
-   There is a 2nd part to this, but it involves becoming trans and not questioning, so it has been placed [here.](https://estrogen.rocks/misc)
+There is a 2nd part to this, but it involves becoming trans and not questioning, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
 

@@ -160,7 +160,7 @@ Shave your sideburns back to your ear!
 Practice. There is no magic tip. It will take months. 
 You can only do your best and your vocal chords may be too far stretched. 
 However, I sang Bass 2 in choir and now have a mostly passing female voice.
- Sing. Read. Watch movies. Go for walks. 
+Sing. Read. Watch movies. Go for walks. 
 You may not know what you're doing, but keep feeling around, 
 and when you feel something that is a step in the direction you want, 
 keep going in that direction.
