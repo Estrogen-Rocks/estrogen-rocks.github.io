@@ -1,4 +1,5 @@
 url: https://estrogen.rocks
+baseurl: /
 google_analytics: UA-168919706-1
 email: estrogenrocks@protonmail.com
 theme: jekyll-theme-midnight

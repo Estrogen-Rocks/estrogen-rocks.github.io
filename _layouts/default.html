@@ -19,7 +19,19 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<script>
+    document.addEventListener('click', function (event) {
+        let anchor = event.target.closest("A");
+        if(anchor){
+            const href = anchor.href.toLowerCase();
+            if(!href.startsWith('https://estrogen.rocks') && !href.startsWith('http://127.0.0.1')){
+                window.open(href,'_blank');
+                event.preventDefault()
+            }
+        }
 
+    }, false);
+</script>
 </head>
 <body>
 <div id="header">
