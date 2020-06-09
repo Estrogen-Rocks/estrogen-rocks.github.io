@@ -3,7 +3,7 @@ title: Feminization
 description: How to girlmode.
 permalink: /fem/
 ---
-All of these guides involve continuous improvement, trial-and-error, and perseverance. 
+These guides involve continuous improvement, trial-and-error, and perseverance. 
 You won't get it 100% perfect the first time, and **that's okay.** 
 
 ### Rome wasn't built in a day, but they were laying bricks every hour.
@@ -102,11 +102,26 @@ It is a bit difficult to read, but extensive and informative.
 ---
 
 <details>
+  <summary>Femgen - Click to Expand</summary>
+  <br>
+  This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
+  
+  It has sections on makeup, skincare, and fitness.
+  
+  [https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view](https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view)
+  
+  Note: It is recommended to change the document mode to `Viewing` as without that you get to see any troll suggestions or edits.
+  
+</details>
+
+---
+
+<details>
   <summary>SRS - Click to Expand</summary>
   <br>
   
   ### Surgery: A guide for MTFs
-  A very informative PDF on surgery. 
+  A very informative PDF on SRS and the experiences surrounding the process. 
   
   Taken verbatim from their introduction:
   ```
@@ -122,25 +137,10 @@ It is a bit difficult to read, but extensive and informative.
   They have a list of information and results on surgeons around the world. 
   
   Warning, NSFW.
+  
   [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
 </details>
 
----
-
-
-
-<details>
-  <summary>Femgen - Click to Expand</summary>
-  <br>
-  This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
-  
-  It has sections on makeup, skincare, and fitness.
-  
-  [https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view](https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view)
-  
-  Note: It is recommended to change the document mode to `Viewing` as without that you get to see any troll suggestions or edits.
-  
-</details>
 
 
 
