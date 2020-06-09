@@ -102,6 +102,34 @@ It is a bit difficult to read, but extensive and informative.
 ---
 
 <details>
+  <summary>SRS - Click to Expand</summary>
+  <br>
+  
+  ### Surgery: A guide for MTFs
+  A very informative PDF on surgery. 
+  
+  Taken verbatim from their introduction:
+  ```
+- This booklet aims to:
+- describe options for MTF SRS
+- explain possible risks and complications of MTF SRS
+- describe what to expect before and after MTF SRS
+- explore issues to consider in making the decision to have SRS
+```
+  [http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf](http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf)
+  
+  ### TransSurgeriesWiki
+  They have a list of information and results on surgeons around the world. 
+  
+  Warning, NSFW.
+  [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
+</details>
+
+---
+
+
+
+<details>
   <summary>Femgen - Click to Expand</summary>
   <br>
   This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
