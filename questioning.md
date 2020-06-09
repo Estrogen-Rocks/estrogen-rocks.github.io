@@ -1,6 +1,7 @@
 ---
 title: Questioning
 description: Am I trans?
+permalink: /questioning/
 ---
 
 ## What is this?
