@@ -54,16 +54,28 @@ permalink: /hrt/
 ---
 
 <details>
-  <summary>/hrtgen/ Sticky - Click to expand</summary>
+   <summary>r/transDIY - Click to Expand</summary>
+   <br>
+   Lots of information in a moderated space.
+   
+   **Please read the wiki first.**
+   
+   [https://www.reddit.com/r/TransDIY/wiki/index](https://www.reddit.com/r/TransDIY/wiki/index)
+   
+    
+</details>
+
+---
+
+<details>
+  <summary>/hrtgen/ - Click to expand</summary>
   <br>
   
-This is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
-It links off to r/transDIY, so if you prefer, you can ask your questions on reddit. 
+If you would prefer to be less than PC, there is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
 
-**Please read the wiki first.**
-[https://www.reddit.com/r/TransDIY/wiki/index](https://www.reddit.com/r/TransDIY/wiki/index)  
-  
-  
+The latest thread can be searched here: [https://4channel.org/lgbt/hrtgen](https://4channel.org/lgbt/hrtgen)
+ 
+ 
 The original copy of the sticky is here: [https://pastebin.com/LyMhFmT4](https://pastebin.com/LyMhFmT4)
 
 ---

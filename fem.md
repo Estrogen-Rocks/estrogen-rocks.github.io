@@ -128,21 +128,21 @@ It is a bit difficult to read, but extensive and informative.
   A very informative PDF on SRS and the experiences surrounding the process. 
   
   Taken verbatim from their introduction:
-  ```
-- This booklet aims to:
+
+This booklet aims to:
 - describe options for MTF SRS
 - explain possible risks and complications of MTF SRS
 - describe what to expect before and after MTF SRS
 - explore issues to consider in making the decision to have SRS
-```
-  [http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf](http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf)
-  
-  ### TransSurgeriesWiki
-  They have a list of information and results on surgeons around the world. 
-  
-  Warning, NSFW.
-  
-  [https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
+
+[http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf](http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf)
+
+### TransSurgeriesWiki
+They have a list of information and results on surgeons around the world. 
+
+Warning, NSFW.
+
+[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
 </details>
 
 

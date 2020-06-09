@@ -85,11 +85,11 @@ It won't leave you alone. Perhaps you are trans. Or should consider it.
 
 
 +Pro/Cons Chart
--Don't make charts like this.
+Don't make charts like this.
 -Option 1 Pros | Option 1 Cons
--Money         | Happiness  
--
-+Make them like this.
+-Money         | No Happiness  
+
+Make them like this.
 +Option 1     | Option 2
 +Money        | No Money
 +No Happiness | Happiness
@@ -99,6 +99,6 @@ It's natural to feel strongly about things
 at some times and feel less at others.
 ```
 
-There is a 2nd part to this, but it involves becoming trans and not questioning, so it has been placed [here.](https://estrogen.rocks/misc)
+There is a 2nd part to this, but it involves becoming trans after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
 
