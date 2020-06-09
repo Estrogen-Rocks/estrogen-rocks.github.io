@@ -23,6 +23,8 @@ UK-Oriented, but still useful.
 
 <details>
   <summary>Mother Bats' Trans Service - Click to Expand</summary>
+  <br>
+  
    Mother Bat is a lovely tripcode user with a heart of gold. 
    She made this guide to help questioning trans men and women.
    
@@ -97,8 +99,6 @@ It's natural to feel strongly about things
 at some times and feel less at others.
 ```
 
-   There is a 2nd part to this, but it involves becoming trans and not questioning, so it isn't found here. 
-   
-   The 2nd part has been placed [here.](https://estrogen.rocks/misc)
+   There is a 2nd part to this, but it involves becoming trans and not questioning, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
 

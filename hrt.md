@@ -6,6 +6,8 @@ permalink: /hrt/
 
 <details>
   <summary>The Powers Method - Click to Expand</summary>
+  <br>
+  
    Dr. Powers seems to know his stuff, and lots of people report excellent results using his hormone regimen.
    
    He hates Spironolactone, and gives a good reason why. (46:52 in the lecture)
@@ -25,6 +27,7 @@ permalink: /hrt/
 
 <details>
   <summary>Intro to the Pharmacology of transition - Click to expand</summary>
+  <br>
   
   [https://male-to-female.org/en/mtf_pharmacology](https://male-to-female.org/en/mtf_pharmacology)
   
@@ -52,6 +55,8 @@ permalink: /hrt/
 
 <details>
   <summary>/hrtgen/ Sticky - Click to expand</summary>
+  <br>
+  
 This is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
 It links off to r/transDIY, so if you prefer, you can ask your questions on reddit. 
 
@@ -116,6 +121,8 @@ dosages, and treatment regime to get the results we want.
 
 <details>
   <summary>How to Self-Inject - Click to Expand</summary>
+  <br>
+  
   Your physician will probably already have guidelines and instructions for you, but sometimes your doctor is sucky.
   
   
@@ -140,6 +147,7 @@ dosages, and treatment regime to get the results we want.
 
 <details>
   <summary>Homebrewing HRT - Click to Expand</summary>
+   <br>
    
    # Disclaimer - We do not endorse this information. 
    ## This site is NOT responsible in any way, shape, or form for any and all results if you chose to follow this advice. However, we understand that desperate times may call for desperate measures, so these links will remain here. 

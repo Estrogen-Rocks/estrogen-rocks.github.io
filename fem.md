@@ -3,11 +3,17 @@ title: Feminization
 description: How to girlmode.
 permalink: /fem/
 ---
+All of these guides involve continuous improvement, trial-and-error, and perseverance. 
+You won't get it 100% perfect the first time, and **that's okay.** 
+
+### Rome wasn't built in a day, but they were laying bricks every hour.
+
 
 <details>
   <summary>Voice Training - Click to Expand</summary>
   
-  Practice multiple times daily if possible. Rome wasn't built in a day.
+  Practice multiple times daily if possible.
+  <br>
   
 ### Lena's Guide
 
@@ -37,7 +43,8 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Fashion - Click to Expand</summary>
-    
+  <br>
+  
   ### /fa/ Sticky.
   This is a bit outdated, but still very relevant.
   
@@ -54,8 +61,9 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Fitness - Click to Expand</summary>
-  
-  Consistency is the name of the game. You need to pick a plan and commit to it. Rome wasn't built in a day.
+  <br>
+  Consistency is the name of the game. You need to pick a plan and commit to it.
+  <br>
   
   ### /fit/ Sticky
   [http://liamrosen.com/fitness.html](http://liamrosen.com/fitness.html)
@@ -72,6 +80,7 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Hair & Skin Care - Click to Expand</summary>
+  <br>
   
   ### Intro to Hair + Skincare
   
@@ -94,6 +103,7 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Femgen - Click to Expand</summary>
+  <br>
   This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
   
   It has sections on makeup, skincare, and fitness.
