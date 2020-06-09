@@ -4,8 +4,15 @@
   link: /hrt/
 - name: Feminization
   link: /fem/
-# About should be last.
+- name: Questioning
+  link: /questioning/
+- name: Legal
+  link: /legal/
+- name: Misc
+  link: /misc/
 - name: About
   link: /about/
+
+# About should be last.
 
 # fill out more nav stuff

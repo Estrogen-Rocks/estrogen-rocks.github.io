@@ -7,7 +7,7 @@ We do not endorse nor condone any guide linked here. Always use common sense and
 
 If you are looking for an FtM guide, then consult [http://www.ftmguide.org](http://www.ftmguide.org)
 
-If you wish to contact the creators then please email [estrogenrocks@protonmail.com](mailto://estrogenrocks-s@protonmail.com) or submit an issue on our [Github Repository](https://github.com/Estrogen-Rocks/estrogen-rocks.github.io) 
+If you wish to contact the creators, update sources, or give advice, then please email [estrogenrocks@protonmail.com](mailto://estrogenrocks-s@protonmail.com) or submit an issue on our [Github Repository](https://github.com/Estrogen-Rocks/estrogen-rocks.github.io) 
 
 This tripcode will be used when necessary: `!!YoZfWd184QT`
 
