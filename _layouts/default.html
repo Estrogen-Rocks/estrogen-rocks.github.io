@@ -32,6 +32,27 @@
 
     }, false);
 </script>
+
+    {% if site.google_analytics and jekyll.environment == "production" %}
+    <script>
+        var captureOutboundLink = function(url) {
+            ga('send', 'event', 'outbound', 'click', url, {
+                'transport': 'beacon',
+                'hitCallback': function(){document.location = url;}
+            });
+        }
+        document.addEventListener('click', function (event) {
+            let anchor = event.target.closest("A");
+            if(anchor){
+                const href = anchor.href;
+                if(!href.startsWith('https://estrogen.rocks') && !href.startsWith('http://127.0.0.1')){
+                    captureOutboundLink(href)
+                }
+            }
+
+        }, false);
+    </script>
+    {% endif %}
 </head>
 <body>
 
