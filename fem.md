@@ -120,6 +120,10 @@ It is a bit difficult to read, but extensive and informative.
   <summary>SRS - Click to Expand</summary>
   <br>
   
+  ### Note
+  Only **you** can make the decision yourself. Do your own research and come to your own conclusion. 
+  Do not let the words of transphobes on the internet affect your decision. 
+  
   ### Surgery: A guide for MTFs
   A very informative PDF on SRS and the experiences surrounding the process. 
   
