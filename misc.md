@@ -58,6 +58,4 @@ Voice Help:
 [http://lena.kiev.ua/voice/](http://lena.kiev.ua/voice/)
 
 [Changing your birth certificate](https://transgenderlawcenter.org/archives/13454)
-
-   
 </details>

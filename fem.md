@@ -6,7 +6,6 @@ permalink: /fem/
 
 <details>
   <summary>Voice Training - Click to Expand</summary>
-  Voice is almost more important than presenting fem. A good voice will take your girlmoding to another level.
   
   Practice multiple times daily if possible. Rome wasn't built in a day.
   
@@ -38,7 +37,7 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Fashion - Click to Expand</summary>
-  Clothes are an essential part of a woman's wardrobe. Even though your body type may be different that most cis women, don't think that there aren't options for you.
+  Even though your body type may be different that most cis women, don't think that there aren't options for you.
   
   ### /fit/ Sticky.
   This is a bit outdated, but still very relevant.
@@ -84,6 +83,7 @@ It is a bit difficult to read, but extensive and informative.
   
   #### The r/HaircareScience wiki
   [https://www.reddit.com/r/HaircareScience/wiki/index](https://www.reddit.com/r/HaircareScience/wiki/index)
+  
   The sections on [Troubleshooting Common Problems](https://www.reddit.com/r/HaircareScience/comments/1km6ui/troubleshooting_common_problems/) and [Hair Damage Sources](https://www.reddit.com/r/HaircareScience/comments/1km6fx/hair_damage_sources_and_how_to_prevent_it/)
   are recommended.
   
@@ -97,7 +97,8 @@ It is a bit difficult to read, but extensive and informative.
   <summary>Femgen - Click to Expand</summary>
   This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
   
-  It has sections on makeup, skincare, fitness, and skin care.
+  It has sections on makeup, skincare, and fitness.
+  
   [https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view](https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view)
   
   Note: It is recommended to change the document mode to `Viewing` as without that you get to see any troll suggestions or edits.
