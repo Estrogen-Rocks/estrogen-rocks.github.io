@@ -1,4 +1,10 @@
 ---
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/transflag.png
+
 ---
 Welcome! 
 
