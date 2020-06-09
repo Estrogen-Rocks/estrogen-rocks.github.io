@@ -39,7 +39,7 @@ permalink: /hrt/
   [https://male-to-female.org/en/index](https://male-to-female.org/en/index) (Permalink: [https://n2t.net/ark:21206/10029](https://n2t.net/ark:21206/10029))
   
   
-  If philosophy, and the philosophy of your transition interest you, this site also provides an analysis.
+  If the philosophy of your transition interests you, the site also provides an analysis.
   
   [https://male-to-female.org/en/philosophy](https://male-to-female.org/en/philosophy) (Permalink: [https://n2t.net/ark:21206/10002](https://n2t.net/ark:21206/10002))
   
