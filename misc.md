@@ -183,7 +183,7 @@ It's supposed to. Your voice will get lower and higher as your practice.
 -
 +Mannerisms
 Create a character you want to emulate. Small dainty woman? Confident woman?
- Austere man? Friendly man? Do things to help you get into character. 
+Do things to help you get into character. 
 Watch movies. Listen to music. Recite lines from movies.
 
 Keep your feet close together when walking or sitting. 
