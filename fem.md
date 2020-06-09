@@ -37,9 +37,8 @@ It is a bit difficult to read, but extensive and informative.
 
 <details>
   <summary>Fashion - Click to Expand</summary>
-  Even though your body type may be different that most cis women, don't think that there aren't options for you.
-  
-  ### /fit/ Sticky.
+    
+  ### /fa/ Sticky.
   This is a bit outdated, but still very relevant.
   
   [http://tuxbell.com/index.php/Introduction](http://tuxbell.com/index.php/Introduction)
