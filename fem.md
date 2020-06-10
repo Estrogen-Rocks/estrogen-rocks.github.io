@@ -73,6 +73,7 @@ It is a bit difficult to read, but extensive and informative.
   
   ### Dieting
   The /fit/ sticky tells all.
+  
   [http://liamrosen.com/fitness.html#diet](http://liamrosen.com/fitness.html#diet)
 </details>
 

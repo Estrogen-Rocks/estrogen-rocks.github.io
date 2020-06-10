@@ -75,9 +75,6 @@ If you would prefer to be less than PC, there is a general thread on /lgbt/ wher
 
 The latest thread can be searched here: [https://4channel.org/lgbt/hrtgen](https://4channel.org/lgbt/hrtgen)
  
- 
-The original copy of the sticky is here: [https://pastebin.com/LyMhFmT4](https://pastebin.com/LyMhFmT4)
-
 ---
 
 Please take the survey and help us determine the best medications, 
@@ -127,6 +124,35 @@ dosages, and treatment regime to get the results we want.
 
 [/HRTGen/ Archives](https://1drv.ms/w/s!AudRJceTA5C9fiPMDzSLX7xF9MI)
 
+---
+
+### Online pharmacy list:
+
+[http://inhousepharmacy.vu](http://inhousepharmacy.vu) has been popular in the US.
+
+[http://eu-aibolit.com](http://eu-aibolit.com) is a reliable site that ships to a lot of places. Good for EU anons. They list shipping rates for the UK, Canada, and US among others so I guess they ship there. [http://eu-aibolit.com/content/15-usloviya-dostavki](http://eu-aibolit.com/content/15-usloviya-dostavki)
+
+[https://aphrodites.shop](https://aphrodites.shop) reportedly ships to Canada. You need to email the site operator to order. In the EU shipping times of two weeks have been reported. Email contact@aphrodites.shop to order.
+
+[http://unitedpharmacies-uk.md](http://unitedpharmacies-uk.md) seems to work for the UK.
+
+There's also [unitedpharmacies.md](unitedpharmacies.md) (US-centric) and [unitedpharmacies.nl](unitedpharmacies.nl) (Netherlands-centric)
+
+[alldaychemist.com](alldaychemist.com) is another.
+
+[http://lena.kiev.ua/ev/](http://lena.kiev.ua/ev/) has become popular for injections.
+
+[https://sshifter.puzl.com/](https://sshifter.puzl.com/) Turkey to Worldwide, popular.
+
+[https://www.buyonlineventolin.io](https://www.buyonlineventolin.io) Turkey to Worldwide.
+
+### Less reliable/untested/poorly tested sites:
+
+[https://inhome-health.com/](https://inhome-health.com/) seems iffy so consider them a last resort. Messed up orders have been reported. They are said to ship to Canada.
+
+[https://amazon4health.com/](https://amazon4health.com/) - expensive, no bica.
+
+[https://trans.chat/s/](https://trans.chat/s/) for more detailed product lists.
 </details>
 
 ---
