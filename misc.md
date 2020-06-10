@@ -74,11 +74,9 @@ Voice Help:
    
    The full copy can be found here: [https://pastebin.com/sM9WB4A7](https://pastebin.com/sM9WB4A7)
    
-   
-```diff
 
--
-+Process
+
+### Process
 So, you've decided to transition! 
 The process differs based on your location. 
 Maybe you need letters from therapists to get hormones from a doctor. 
@@ -95,8 +93,7 @@ Most surgeons don't accept Medi-cal because they don't pay enough,
 but it is possible to find a surgeon who does, 
 or just get your own insurance.
 
--
-+Skin
+### Skin
 Cleanser. Toner. Moisturizer. 
 Get a cleanser to clean your face. Get a toner to treat your pores. 
 Get a Moisturizer to moisturize your skin.
@@ -104,8 +101,7 @@ Get a Moisturizer to moisturize your skin.
 Or just keep your face clean. Be gentle. Splash water on your face. 
 Wipe with a clean towel often.
 
--
-+Makeup
+### Makeup
 Primer. It provides a flat foundation for makeup. 
 Imagine painting on a rug. It works better on tile.
 
@@ -129,8 +125,7 @@ Doing both looks gaudy. So if you choose colorful eyeshadow,
 you should choose a subtle lip color that matches your lips. 
 If you choose bright red lips, you should go easy on the eyes.
 
--
-+Hair
+### Hair
 You can try all the nutrients and oils. If you are healthy, 
 your hair will be healthy. Stop smoking! 
 Your hair will grow as best it can. Genetics may be involved.
@@ -143,20 +138,17 @@ You don't have to wash your hair often.
 You can just use conditioner. However, if you do use shampoo, 
 you must use conditioner afterwards.
 
--
-+Eyebrows
+### Eyebrows
 Relax. Get a magnifying mirror and needle point tweezers. 
 Pluck one hair at a time. Find the main core of your eyebrow, 
 the shape you want. Then you remove the forest of stray hairs 
 outside of that area. Generally, you pluck from the bottom 
 and don't touch the top. You want to keep that arch.
 
--
-+Sideburns
+### Sideburns
 Shave your sideburns back to your ear!
 
--
-+Voice
+### Voice
 Practice. There is no magic tip. It will take months. 
 You can only do your best and your vocal chords may be too far stretched. 
 However, I sang Bass 2 in choir and now have a mostly passing female voice.
@@ -165,14 +157,6 @@ You may not know what you're doing, but keep feeling around,
 and when you feel something that is a step in the direction you want, 
 keep going in that direction.
 
--
--EDITORS NOTE
-If you want to hear her voice, she recently had a conversation with another 
-tripcode user which was posted online. 
-https://soundcloud.com/the-simposium/masquerade-with-mother-bat
-The intro is long, skip ahead one minute.
--EDITORS NOTE
-
 Open your mouth wide. Sing. Try not to constrict your throat. Swallow. 
 Do you feel your adam's apple moving up? 
 You are trying to keep that up there.
@@ -180,8 +164,17 @@ You are trying to keep that up there.
 Keep practicing. It will sound horrible. 
 It's supposed to. Your voice will get lower and higher as your practice.
 
--
-+Mannerisms
+**[[EDITORS NOTE]]**
+
+If you want to hear her voice, she recently had a conversation with another 
+tripcode user which was posted online. The intro is long, skip ahead one minute.
+
+[https://soundcloud.com/the-simposium/masquerade-with-mother-bat](https://soundcloud.com/the-simposium/masquerade-with-mother-bat)
+
+**[[EDITORS NOTE]]**
+
+
+### Mannerisms
 Create a character you want to emulate. Small dainty woman? Confident woman?
 Do things to help you get into character. 
 Watch movies. Listen to music. Recite lines from movies.
@@ -191,5 +184,5 @@ Keep your hands together when sitting. You are small;
 you do not take up much space. You wait patiently and move smoothly, 
 not in sudden jerking fashion. Keep your hands open, 
 as if energy would flow down your arms like water.
-```
+
 </details>

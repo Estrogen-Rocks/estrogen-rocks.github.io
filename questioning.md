@@ -25,32 +25,27 @@ UK-Oriented, but still useful.
   <summary>Mother Bats' Trans Service - Click to Expand</summary>
   <br>
   
-   Mother Bat is a lovely tripcode user with a heart of gold. 
-   She made this guide to help questioning trans men and women.
+Mother Bat is a lovely tripcode user with a heart of gold. 
+She made this guide to help questioning trans men and women.
    
-   ```diff
--
-+Question Distinction
 
-First, let me make the distinction of asking whether or not you are "trans" 
-and whether or not you should transition. What do you even mean by "trans?" 
-Perhaps you mean "truly identified as the other side"? 
-Or maybe it's just "trans enough to transition." 
-You should decide your identity by your own personal feelings and 
-your actions by your circumstances.
--
-+Leap of Faith
+
+### Question Distinction
+
+First, let me make the distinction of asking whether or not you are "trans" and whether or not you should transition. 
+What do you even mean by "trans?" 
+Perhaps you mean "truly identified as the other side"? Or maybe it's just "trans enough to transition." 
+You should decide your identity by your own personal feelings and your actions by your circumstances.
+
+### Leap of Faith
 
 Anyway. You can ask a million questions about whether or not you are trans. 
-You might tally up all the masculine and feminine things you like, 
-if that makes a difference. In the end it will take a leap of faith. 
-Decision are difficult because we don't know the full ramification of them. 
-You're worried that maybe you'll transition and regret it. 
-Or maybe you won't transition and regret it. 
-You won't know the future. You can bring it to a pretty good guess, 
-but you won't be 100% sure. So relax once you get to 85%.
--
-+What's the worst that could happen? 
+You might tally up all the masculine and feminine things you like, if that makes a difference. 
+In the end it will take a leap of faith. Decision are difficult because we don't know the full ramification of them. 
+You're worried that maybe you'll transition and regret it. Or maybe you won't transition and regret it. You won't know the future. 
+You can bring it to a pretty good guess, but you won't be 100% sure. So relax once you get to 85%.
+
+### What's the worst that could happen? 
 
 If you take hormones and find you don't like it, you get off them. 
 If your body is permanently changed a bit, you'll be a little strange, 
@@ -58,8 +53,8 @@ that's all. Relax, life is just a ride.
 On the other hand, if you choose not to transition, 
 that's fine too, but you'd be left with your imagination of what 
 could have been, rather than knowing what could have been.
--
-+What questions to ask
+
+### What questions to ask
 
 Are you trans? Should you transition? 
 No need to ask yourself a million questions of whether or not you like dolls 
@@ -73,8 +68,8 @@ Do you want to be playing with battleships as a girl or a boy?
 Then consider others, not as people, but as an environment. 
 Do you want people to call you a woman? 
 Treat you as a woman? Expect things of you like a woman? Or a man?
--
-+The Meta
+
+### The Meta
 
 All this back and forth and no clear answers. 
 Let's take a step back. 
@@ -84,20 +79,23 @@ This fact shows some significance to it.
 It won't leave you alone. Perhaps you are trans. Or should consider it.
 
 
-+Pro/Cons Chart
+### Pro/Cons Chart
 Don't make charts like this.
+```diff
 -Option 1 Pros | Option 1 Cons
 -Money         | No Happiness  
+```
 
 Make them like this.
+```diff
 +Option 1     | Option 2
 +Money        | No Money
 +No Happiness | Happiness
-    
-+Flip Flop
-It's natural to feel strongly about things 
-at some times and feel less at others.
 ```
+    
+### Flip Flop
+It's natural to feel strongly about things at some times and feel less at others.
+
 
 There is a 2nd part to this, but it involves becoming trans after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
