@@ -169,7 +169,7 @@ It's supposed to. Your voice will get lower and higher as your practice.
 If you want to hear her voice, she recently had a conversation with another 
 tripcode user which was posted online. The intro is long, skip ahead one minute.
 
-[https://soundcloud.com/the-simposium/masquerade-with-mother-bat](https://soundcloud.com/the-simposium/masquerade-with-mother-bat)
+[https://soundcloud.com/the-wheel-house/masquerade-with-mother-bat](https://soundcloud.com/the-wheel-house/masquerade-with-mother-bat)
 
 **[[EDITORS NOTE]]**
 
