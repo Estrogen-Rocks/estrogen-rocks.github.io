@@ -37,6 +37,19 @@ It is a bit difficult to read, but extensive and informative.
 [https://www.youtube.com/watch?v=27Yb04MBaOE&list=PLVBTgX4F61IfiDkeZ-B9i1tlfNLMdYCui](https://www.youtube.com/watch?v=27Yb04MBaOE&list=PLVBTgX4F61IfiDkeZ-B9i1tlfNLMdYCui)
 #### TransVoiceLessons
 [https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
+
+### Mother Bats' advice
+Practice. There is no magic tip. It will take months. 
+You can only do your best and your vocal chords may be too far stretched. 
+However, I sang Bass 2 in choir and now have a mostly passing female voice. 
+Sing. Read. Watch movies. Go for walks. You may not know what you're doing, but keep feeling around, 
+and when you feel something that is a step in the direction you want, keep going in that direction.
+
+Open your mouth wide. Sing. Try not to constrict your throat. Swallow. 
+Do you feel your adam's apple moving up? You are trying to keep that up there.
+
+Keep practicing. It will sound horrible. It's supposed to. 
+Your voice will get lower and higher as your practice.
 </details>
 
 ---
