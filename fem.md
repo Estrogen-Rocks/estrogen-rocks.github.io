@@ -21,6 +21,12 @@ It is a bit difficult to read, but extensive and informative.
 
 [http://lena.kiev.ua/voice/](http://lena.kiev.ua/voice/)
 
+### Voice Training General
+It is mostly dead, but the discord server in the sticky is a bit more active. 
+
+The latest thread can be searched here: [https://4channel.org/lgbt/vtg](https://4channel.org/lgbt/vtg)
+
+
 ### A big book on voice training.
 [https://files.catbox.moe/lhk3mg.pdf](https://files.catbox.moe/lhk3mg.pdf)
 
