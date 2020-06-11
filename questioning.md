@@ -8,8 +8,9 @@ permalink: /questioning/
 This is just a helpful guide created for someone unsure of their gender. 
 Hopefully this will help you in your journey of self exploration.
 
-### The Trevor Project Questioning guide
+### The Trevor Project 
 [https://www.thetrevorproject.org/trvr_support_center/trans-gender-identity/](https://www.thetrevorproject.org/trvr_support_center/trans-gender-identity/)
+
 
 ### Transgender Map
 [https://www.transgendermap.com/welcome/for-questioning-readers/](https://www.transgendermap.com/welcome/for-questioning-readers/)
