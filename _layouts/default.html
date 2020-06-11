@@ -30,6 +30,8 @@
                 if(!href.startsWith('https://estrogen.rocks') && !href.startsWith('http://127.0.0.1')){
                     window.open(href,'_blank');
                     event.preventDefault()
+                    ga('send', 'event', 'outbound', 'click', href, {'transport': 'beacon'});
+
                 }
             }
         }, false);
