@@ -22,6 +22,18 @@ UK-Oriented, but still useful.
 ---
 
 <details>
+  <summary>Introspection - Click to Expand</summary>
+  <br>
+  Take the time to be alone with your thoughts and/or a pen and paper and try and think about how you feel. 
+  You don't always need to put your feelings into words or concrete thought. You may not even get a clear answer the first few times. 
+  Just keep calm, and take a deep breath. you don't have to know everything about yourself instantly. 
+  Self exploration can be tough, but is well worth it in the end.
+
+</details>
+
+---
+
+<details>
   <summary>Mother Bats' Trans Service - Click to Expand</summary>
   <br>
   
@@ -96,6 +108,7 @@ Make them like this.
 ### Flip Flop
 It's natural to feel strongly about things at some times and feel less at others.
 
+---
 
 There is a 2nd part to this, but it involves becoming trans after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
