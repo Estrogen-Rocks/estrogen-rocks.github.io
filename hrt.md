@@ -26,6 +26,22 @@ permalink: /hrt/
 ---
 
 <details>
+  <summary>Powers Method Summary - Click to Expand</summary>
+  <br>
+  Listen to the lecture first!
+   
+  It is better to know as much as possible about what is happening with your body during transition.
+  However, if you're short on time, an anon made this image to summarize the lecture.
+  
+  ![summary](https://raw.githubusercontent.com/Estrogen-Rocks/estrogen-rocks.github.io/master/assets/powers-summary.png)
+
+</details>
+
+---
+
+
+
+<details>
   <summary>Intro to the Pharmacology of transition - Click to expand</summary>
   <br>
   
