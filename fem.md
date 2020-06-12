@@ -11,9 +11,11 @@ You won't get it 100% perfect the first time, and **that's okay.**
 
 <details>
   <summary>Voice Training - Click to Expand</summary>
-  
-  Practice multiple times daily if possible.
   <br>
+  Practice multiple times daily if possible. 
+  
+  **Raising your larynx isn't everything.** 
+  
   
 ### Lena's Guide
 
@@ -43,6 +45,10 @@ The latest thread can be searched here: [https://4channel.org/lgbt/vtg](https://
 [https://www.youtube.com/watch?v=27Yb04MBaOE&list=PLVBTgX4F61IfiDkeZ-B9i1tlfNLMdYCui](https://www.youtube.com/watch?v=27Yb04MBaOE&list=PLVBTgX4F61IfiDkeZ-B9i1tlfNLMdYCui)
 #### TransVoiceLessons
 [https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
+
+### CheryBlossoms
+She has an interesting chat on resonance 
+[https://clyp.it/bhgfuset](https://clyp.it/bhgfuset)
 
 ### Mother Bats' advice
 Practice. There is no magic tip. It will take months. 

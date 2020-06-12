@@ -20,6 +20,11 @@ UK-Oriented, but still useful.
 
 [https://www.nhs.uk/live-well/healthy-body/trans-teenager/](https://www.nhs.uk/live-well/healthy-body/trans-teenager/)
 
+### Gender Psychology
+A site apparently made by a trans Psychology professor. 
+
+[http://www.genderpsychology.org/transsexual/question.html](http://www.genderpsychology.org/transsexual/question.html)
+
 ---
 
 <details>
