@@ -21,7 +21,11 @@ UK-Oriented, but still useful.
 [https://www.nhs.uk/live-well/healthy-body/trans-teenager/](https://www.nhs.uk/live-well/healthy-body/trans-teenager/)
 
 ### Gender Psychology
-A site apparently made by a trans Psychology professor. 
+A site apparently made by a trans Psychology professor. She has dozens of helpful articles, and this one is just scratching the surface.
+
+The questioning page is very good, and makes one of the following points:
+
+Do you say things to yourself like, "It's too late for me to transition", "I'm too old", or "If only I could go back to (some earlier point in my life) then I would transition." If you say things like that you might consider the possibility that you're making a classic reasoning error called "the fallacy of sunk cost."
 
 [http://www.genderpsychology.org/transsexual/question.html](http://www.genderpsychology.org/transsexual/question.html)
 
