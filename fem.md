@@ -9,9 +9,16 @@ You won't get it 100% perfect the first time, and **that's okay.**
 ### Rome wasn't built in a day, but they were laying bricks every hour.
 
 
-### Makeup for Beginners
-
+<details>
+  <summary>Makeup - Click to Expand</summary>
+  <br>
+  There are many sources in the Hair & Skin care + Femgen section, but here's one for visibility's sake.
+  
+  ### Makeup for Beginners
+  
 [http://masterposter.tumblr.com/post/116605714860](http://masterposter.tumblr.com/post/116605714860)
+
+</details>
 
 ---
 
