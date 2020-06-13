@@ -9,6 +9,12 @@ You won't get it 100% perfect the first time, and **that's okay.**
 ### Rome wasn't built in a day, but they were laying bricks every hour.
 
 
+### Makeup for Beginners
+
+[http://masterposter.tumblr.com/post/116605714860](http://masterposter.tumblr.com/post/116605714860)
+
+---
+
 <details>
   <summary>Voice Training - Click to Expand</summary>
   <br>
@@ -128,12 +134,10 @@ Your voice will get lower and higher as your practice.
 ---
 
 <details>
-  <summary>Femgen - Click to Expand</summary>
+  <summary>Femgen (Hair removal, Fitness, Makeup) - Click to Expand</summary>
   <br>
   This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
-  
-  It has sections on makeup, skincare, and fitness.
-  
+    
   [https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view](https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view)
   
   Note: It is recommended to change the document mode to `Viewing` as without that you get to see any troll suggestions or edits.
@@ -153,7 +157,7 @@ Your voice will get lower and higher as your practice.
   ### Surgery: A guide for MTFs
   A very informative PDF on SRS and the experiences surrounding the process. 
   
-  Taken verbatim from their introduction:
+The following is taken verbatim from their introduction.
 
 This booklet aims to:
 - describe options for MTF SRS
