@@ -84,7 +84,7 @@ permalink: /hrt/
 ---
 
 <details>
-  <summary>/hrtgen/ - Click to expand</summary>
+  <summary>/hrtgen/ (Online Pharmacies, Blood Testing, HRT Data) - Click to expand</summary>
   <br>
   
 If you would prefer to be less than PC, there is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
