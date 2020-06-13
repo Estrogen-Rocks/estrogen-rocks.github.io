@@ -13,6 +13,7 @@ You won't get it 100% perfect the first time, and **that's okay.**
   <summary>Makeup - Click to Expand</summary>
   <br>
   There are many sources in the Hair & Skin care + Femgen section, but here's one for visibility's sake.
+  <br>
   
   ### Makeup for Beginners
   
@@ -158,7 +159,7 @@ Your voice will get lower and higher as your practice.
   <br>
   
   ### Note
-  Only **you** can make the decision yourself. Do your own research and come to your own conclusion. 
+  Only **you** can make this decision. Do your own research and come to your own conclusion. 
   Do not let the words of transphobes on the internet affect your decision. 
   
   ### Surgery: A guide for MTFs
