@@ -39,7 +39,19 @@ permalink: /hrt/
 
 ---
 
+<details>
+  <summary>Good Endocrinologists - Click to Expand</summary>
+  <br>
+  
+  Unfortunately due to WPATH and general lack of reliable data, many endocrinologists just give you 2mg of E2 and 200mg of spiro and call it a day.
+  The following list has endocrinologists that follow the Powers method. 
+  
+  Unfortunately this only includes the US, UK, and Canada. If you know an endo who follows Powers and they aren't on the list, please consider adding to the wiki or [sending an e-mail.](mailto://{{site.email}}).
+  
+  [https://www.reddit.com/r/DrWillPowers/wiki/index](https://www.reddit.com/r/DrWillPowers/wiki/index)
+</details>
 
+---
 
 <details>
   <summary>Intro to the Pharmacology of transition - Click to expand</summary>
@@ -90,7 +102,7 @@ permalink: /hrt/
 If you would prefer to be less than PC, there is a general thread on /lgbt/ where most questions are asked and answered involving hrt, medication, and the like.
 
 The latest thread can be searched here: [https://4channel.org/lgbt/hrtgen](https://4channel.org/lgbt/hrtgen)
- 
+
 ---
 
 Please take the survey and help us determine the best medications, 
@@ -142,7 +154,7 @@ dosages, and treatment regime to get the results we want.
 
 ---
 
-### Online pharmacy list:
+## Online pharmacy list:
 
 [http://inhousepharmacy.vu](http://inhousepharmacy.vu) has been popular in the US.
 
@@ -168,7 +180,7 @@ There's also [unitedpharmacies.md](unitedpharmacies.md) (US-centric) and [united
 
 [https://amazon4health.com/](https://amazon4health.com/) - expensive, no bica.
 
-[https://trans.chat/s/](https://trans.chat/s/) for more detailed product lists.
+[https://9san.ch/hrt/](https://9san.ch/hrt/) for more detailed product lists.
 </details>
 
 ---

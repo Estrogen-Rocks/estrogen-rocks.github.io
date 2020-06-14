@@ -67,6 +67,108 @@ Voice Help:
 ---
 
 <details>
+  <summary>Mother Bats' Coming Out Service  - Click to Expand</summary>
+  <br>
+  
+  ### Should You Come Out
+  Why would you want to come out? Oh yeah, it's nice to have people know who you really are. 
+  You'd like to live authentically and don't want to hide anymore or can't. 
+  What if there are obstacles?
+  
+  #### Old People
+  If your grandparents are homophobic or transphobic and are close to dying, is it worth the trouble? This one is entirely up to you. I have nothing to add.
+  
+  #### Work
+  Work is important. Money is important. Maybe relationships with your coworkers are important.
+  Maybe your ambiguity confuses customers and you need to pick a side. 
+  But what if they are prejudiced? Again, you'll have to judge the risk.
+  
+  ### How to come out
+  
+  #### Probing
+  How can you quietly gauge someone's level of tolerance for /lgbt people? 
+  Talk to them about an /lgbt movie. The following is a bit of a clumsy and tasteless move, 
+  but you could pretend to be homophobic and transphobic, or at least skeptical of them. 
+  Ask them what they think about groups that oppose /lgbt, such as religions, countries, or 
+  people. Get into a curious philisophical debate about where to draw the line of live and 
+  let live; pretend it's purely academic. Consider the tolerance of other 
+  fringe lifestyles or cultural customs.
+  
+  **[[EDITORS NOTE]]**
+  
+If your family watches movies often, here are some lgbtq movies to probe them with.
+
+#### Call me by your name
+- Cute gay love story
+- Timothee Chalamet (My Husband)
+- Possible excuses:
+  - Almost an academy award winner for best picture.
+  - Timothee Chalamet.
+
+#### Dallas Buyers Club
+- Deals with gay and trans people during the 80's aids epedemic.
+- Has a trans main character
+- Possible Excuses
+  - Mattew Mcconaughey
+
+#### Portrait of a lady on fire.
+- 18th century lesbians
+- Possible Excuses (If your parents know what cannes is)
+Nominated for Palm d'Or.
+Won Best screenplay at cannes.
+
+**[[EDITORS NOTE]]**
+  
+  #### The Approach
+  If you want to put more effort into a long con, you can warm them up by earning their respect. 
+  Be good at your job, greet them when you see them, and perhaps offer them lunch or 
+  small gifts or favors. You could try to persuade them to be more liberal with live and 
+  let live. Freshen up on your persuasion skills! Go see Google.
+  
+  #### The conversation
+  Go on and make it a formal approach. You can be relaxed about it, 
+  but do tell them that you need to tell them something important. 
+  I suppose you could afford to casually mention it if it isn't important, 
+  if the subject is not important, or if there is low risk. T
+  hen you tell them that you're homosexual or transgender. 
+  Answer their questions and address their concerns.
+  
+  Have the answers to the following questions: 
+  
+  - What this means for your lifestyle?
+  - How you know you're gay/trans?
+  - How you "became" or did not become trans?
+  - Assure them that you are still a good person.
+  - Assure them that you are still the same person.
+  - Dispel their misconceptions about gay and trans people.
+  
+  Throw them a bone; agree with them in some things, like how children cannot be touched 
+  and sex should be kept private, or that you still believe in God.
+ 
+  Tell them that you know it is a lot to take in and will understand if 
+  it takes them a while to get used to it.
+  
+  If they don't react well, don't lash out. You can calmly retort or you can stay silent. 
+  Don't lash out. It's pointless and makes things worse if bridges are ever to be repaired.
+  
+  ### Don't come out
+  If you can't come out, I'm sorry. You'll have to find a way to cope and rationalize. 
+  You have to live for yourself. Not everyone gets to have a loving family. 
+  Yes yes, this you know. It still hurts. This I know. Treat it like a death, 
+  lamenting your loss. Maybe it's a little worse, since they're alive and just rejecting you. 
+  Well, the version of them that loved you is dead.
+  
+  #### The Backup Plan
+  Come out or not, you may need a backup plan. There's no advice here. 
+  Hope to find employment, financial, and government resources to survive. 
+  Cultivate friends, prepare safe houses and couches.
+
+
+</details>
+
+---
+
+<details>
   <summary>Mother Bats' Trans Service - Click to Expand</summary>
    <br> 
    
