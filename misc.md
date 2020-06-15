@@ -114,8 +114,8 @@ If your family watches movies often, here are some lgbtq movies to probe them wi
 #### Portrait of a lady on fire.
 - 18th century lesbians
 - Possible Excuses (If your parents know what cannes is)
-Nominated for Palm d'Or.
-Won Best screenplay at cannes.
+   - Nominated for Palm d'Or.
+   - Won Best screenplay at cannes.
 
 **[[EDITORS NOTE]]**
   
@@ -204,22 +204,22 @@ Or just keep your face clean. Be gentle. Splash water on your face.
 Wipe with a clean towel often.
 
 ### Makeup
-####Primer. 
+#### Primer. 
 It provides a flat foundation for makeup. 
 Imagine painting on a rug. It works better on tile.
 
-####Foundation. 
+#### Foundation. 
 Pick a color that matches your skin. 
 It can be liquid or powder, your choice. Then you add your shadow bronzers, 
 lighter blushes, etc. Imagine if I painted over a flat surface. 
 It would look flat. Then I add shadows and highlights. Now it looks 3d. 
 That's what you're doing.
 
-####Lips. 
+#### Lips. 
 You have lip liner for a more durable edge. 
 You have lipstick, lip gloss, whatever you like.
 
-####Eyes. 
+#### Eyes. 
 Eyeliner, eye shadow, mascera, etc. 
 Find a tutorial. Practice that blending.
 
