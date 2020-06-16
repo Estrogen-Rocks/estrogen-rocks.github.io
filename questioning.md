@@ -70,7 +70,7 @@ You can bring it to a pretty good guess, but you won't be 100% sure. So relax on
 ### What's the worst that could happen? 
 
 If you take hormones and find you don't like it, you get off them. 
-If your body is permanently changed a bit, you'll be a little strange, 
+If your body is permanently changed a bit, you'll be a little different, 
 that's all. Relax, life is just a ride. 
 On the other hand, if you choose not to transition, 
 that's fine too, but you'd be left with your imagination of what 
@@ -120,6 +120,6 @@ It's natural to feel strongly about things at some times and feel less at others
 
 ---
 
-There is a 2nd part to this, but it involves becoming trans after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
+There is a 2nd part to this, but it involves transitioning after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
 </details>
 
