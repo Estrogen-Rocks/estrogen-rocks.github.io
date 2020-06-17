@@ -10,7 +10,7 @@ permalink: /hrt/
   
    Dr. Powers seems to know his stuff, and lots of people report excellent results using his hormone regimen.
    
-   He hates Spironolactone, and gives a good reason why. (46:52 in the lecture)
+   He hates Spironolactone, and gives a good reason why. (46:42 in the lecture)
    
    Please watch the entire lecture if you have time, its very informative. If you skip through you will miss useful info.
    
