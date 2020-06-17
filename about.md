@@ -3,7 +3,7 @@ permalink: /about/
 title: About
 description: A little about the website
 ---
-We do not endorse nor condone any guide linked here. Always use common sense and try to consult your physician before doing any or all of these things.
+We do not endorse nor condone any guide linked here. Always use common sense.
 
 If you are looking for an FtM guide, then consult [http://www.ftmguide.org](http://www.ftmguide.org)
 

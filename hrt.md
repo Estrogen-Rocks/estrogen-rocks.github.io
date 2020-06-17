@@ -46,7 +46,7 @@ permalink: /hrt/
   Unfortunately due to WPATH and general lack of reliable data, many endocrinologists just give you 2mg of E2 and 200mg of spiro and call it a day.
   The following list has endocrinologists that follow the Powers method. 
   
-  Unfortunately this only includes the US, UK, and Canada. If you know an endo who follows Powers and they aren't on the list, please consider adding to the wiki or [sending an e-mail.](mailto://{{site.email}}).
+  Unfortunately this only includes the US, UK, and Canada. If you know an endo who follows Powers and they aren't on the list, please consider adding to the wiki or [sending us an e-mail.](mailto://{{site.email}})
   
   [https://www.reddit.com/r/DrWillPowers/wiki/index](https://www.reddit.com/r/DrWillPowers/wiki/index)
 </details>
@@ -54,7 +54,7 @@ permalink: /hrt/
 ---
 
 <details>
-  <summary>Intro to the Pharmacology of transition - Click to expand</summary>
+  <summary>Intro to the Pharmacology of Transition - Click to expand</summary>
   <br>
   
   [https://male-to-female.org/en/mtf_pharmacology](https://male-to-female.org/en/mtf_pharmacology)
@@ -65,15 +65,10 @@ permalink: /hrt/
   This website has an analysis of HRT, its effects, and lists various studies that explore hormone therapy.
   There are also a few articles about cosmetic surgery, miscellaneous scientific information, 
   and a few papers and essays on self surgery (both cosmetic and gender-affirming). 
-  Essentially, this is a website for the academic transgirl.
+  Essentially, this is a website for the academic trans woman.
   
   [https://male-to-female.org/en/index](https://male-to-female.org/en/index) (Permalink: [https://n2t.net/ark:21206/10029](https://n2t.net/ark:21206/10029))
-  
-  
-  If the philosophy of your transition interests you, the site also provides an analysis.
-  
-  [https://male-to-female.org/en/philosophy](https://male-to-female.org/en/philosophy) (Permalink: [https://n2t.net/ark:21206/10002](https://n2t.net/ark:21206/10002))
-  
+      
   **There is a spanish version of the site!**
   
   [https://male-to-female.org/es](https://male-to-female.org/es)
@@ -84,7 +79,7 @@ permalink: /hrt/
 <details>
    <summary>r/transDIY - Click to Expand</summary>
    <br>
-   Lots of information in a moderated space.
+   Lots of information on DIY hrt in a moderated space.
    
    **Please read the wiki first.**
    
@@ -218,7 +213,7 @@ There's also [unitedpharmacies.md](unitedpharmacies.md) (US-centric) and [united
    # Disclaimer - We do not endorse this information. 
    ## This site is NOT responsible in any way, shape, or form for any and all results if you chose to follow this advice. However, we understand that desperate times may call for desperate measures, so these links will remain here. 
   
-   [HRT Homebrewing by nerotard.](https://gist.github.com/nerotard/f9fb97d0bbb135f56d73c521b5bb2b2b#file-hrt-homebrewing-by-nerotard-gc)
+   [HRT Homebrewing](https://gist.github.com/nerotard/f9fb97d0bbb135f56d73c521b5bb2b2b#file-hrt-homebrewing-by-nerotard-gc)
    
    This guide seems to have been adapted from r/steroids. If you must do this, then do your research and read their wiki. Most of the information is for bodybuilders bulking up, but the information is still relevant.
    

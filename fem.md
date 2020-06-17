@@ -1,5 +1,5 @@
 ---
-title: Feminization
+title: Femininity
 description: How to girlmode.
 permalink: /fem/
 ---
@@ -12,10 +12,8 @@ You won't get it 100% perfect the first time, and **that's okay.**
 <details>
   <summary>Makeup - Click to Expand</summary>
   <br>
-  There are many sources in the Hair & Skin care + Femgen section, but here's one for visibility's sake.
+  There are many sources in the Femgen resource, but here's one for visibility's sake.
   <br>
-  
-  ### Makeup for Beginners
   
 [http://masterposter.tumblr.com/post/116605714860](http://masterposter.tumblr.com/post/116605714860)
 
@@ -144,7 +142,7 @@ Your voice will get lower and higher as your practice.
 <details>
   <summary>Femgen (Hair removal, Fitness, Makeup) - Click to Expand</summary>
   <br>
-  This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for transgirls.
+  This document is the sticky of a general thread directed towards feminine males who wish to augment their appearance or delay twink death. However, this is also a great resource for trans women.
     
   [https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view](https://docs.google.com/document/d/1fdgq_JggagjFjSKI2YbiB6FTkzwTZYGn99gFN0EwyRY/view)
   
@@ -152,36 +150,6 @@ Your voice will get lower and higher as your practice.
   
 </details>
 
----
-
-<details>
-  <summary>SRS - Click to Expand</summary>
-  <br>
-  
-  ### Note
-  Only **you** can make this decision. Do your own research and come to your own conclusion. 
-  Do not let the words of transphobes on the internet affect your decision. 
-  
-  ### Surgery: A guide for MTFs
-  A very informative PDF on SRS and the experiences surrounding the process. 
-  
-The following is taken verbatim from their introduction.
-
-This booklet aims to:
-- describe options for MTF SRS
-- explain possible risks and complications of MTF SRS
-- describe what to expect before and after MTF SRS
-- explore issues to consider in making the decision to have SRS
-
-[http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf](http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf)
-
-### TransSurgeriesWiki
-They have a list of information and results on surgeons around the world. 
-
-Warning, NSFW.
-
-[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
-</details>
 
 
 

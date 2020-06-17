@@ -5,7 +5,7 @@ permalink: /questioning/
 ---
 
 ## What is this?
-This is just a helpful guide created for someone unsure of their gender. 
+This is just a guide created for someone unsure of their gender. 
 Hopefully this will help you in your journey of self exploration.
 
 ### The Trevor Project 
@@ -21,7 +21,7 @@ UK-Oriented, but still useful.
 [https://www.nhs.uk/live-well/healthy-body/trans-teenager/](https://www.nhs.uk/live-well/healthy-body/trans-teenager/)
 
 ### Gender Psychology
-A site apparently made by a trans Psychology professor. She has dozens of helpful articles, and this one is just scratching the surface.
+A site made by a transgender Psychology professor. She has dozens of helpful articles, and this one is just scratching the surface.
 
 The questioning page is very good, and makes one of the following points:
 
@@ -34,9 +34,10 @@ Do you say things to yourself like, "It's too late for me to transition", "I'm t
 <details>
   <summary>Introspection - Click to Expand</summary>
   <br>
-  Take the time to be alone with your thoughts and/or a pen and paper and try and think about how you feel. 
-  You don't always need to put your feelings into words or concrete thought. You may not even get a clear answer the first few times. 
-  Just keep calm, and take a deep breath. you don't have to know everything about yourself instantly. 
+  Set aside time to be alone with your thoughts. Maybe bring a pen+paper. Use this time to think about how you feel about your gender identity or sexuality. 
+  You don't always need to put your feelings into words or concrete thought. You may not even get a clear answer the first few times.
+
+  Just **keep calm**, and take a deep breath. you don't have to know everything about yourself instantly. 
   Self exploration can be tough, but is well worth it in the end.
 
 </details>
@@ -70,7 +71,7 @@ You can bring it to a pretty good guess, but you won't be 100% sure. So relax on
 ### What's the worst that could happen? 
 
 If you take hormones and find you don't like it, you get off them. 
-If your body is permanently changed a bit, you'll be a little different, 
+If your body is changed a bit, you'll be a little different, 
 that's all. Relax, life is just a ride. 
 On the other hand, if you choose not to transition, 
 that's fine too, but you'd be left with your imagination of what 
@@ -120,6 +121,6 @@ It's natural to feel strongly about things at some times and feel less at others
 
 ---
 
-There is a 2nd part to this, but it involves transitioning after a decision has been made, so it has been placed [here.](https://estrogen.rocks/misc)
+There is a 2nd part to this, but it involves transitioning after a decision has been made, so it has been placed <a href="/misc">here.</a>
 </details>
 

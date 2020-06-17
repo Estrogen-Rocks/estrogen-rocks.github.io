@@ -4,11 +4,32 @@ description: Broad, but useful advice.
 permalink: /misc/
 ---
 
+## Transgender Map
+This is a very expansive guide that discusses essential topics relating to transition. 
+This includes but is not limited to the following topics:
+- Social
+- Faith
+- Medical
+- Political
+- Legal
+
+[https://www.transgendermap.com/](https://www.transgendermap.com/)
+
+## Stonewall Coming-Out guide
+A helpful resource for coming out as a youth, adult, or for parents with children coming out.
+
+[https://www.stonewall.org.uk/help-advice/coming-out-0](https://www.stonewall.org.uk/help-advice/coming-out-0)
+
+## UCSF Center of Excellence for Transgender Health
+Created by the USCF Department of Medicine. This hosts a large amount of information, data, and guides related to Trans, and trans-related issues.
+
+[https://prevention.ucsf.edu/transhealth](https://prevention.ucsf.edu/transhealth)
+
 <details>
   <summary>Trans Rights Factsheet - Click to Expand</summary>
   <br>
   
-This source contains many papers, studies, surveys, and trans issues.
+This source contains many papers, studies, and surveys about trans issues.
 
 If you feel that the person you are debating about trans issues will listen to reason, then this is what you need.
 
@@ -287,5 +308,35 @@ Keep your hands together when sitting. You are small;
 you do not take up much space. You wait patiently and move smoothly, 
 not in sudden jerking fashion. Keep your hands open, 
 as if energy would flow down your arms like water.
+</details>
 
+---
+
+<details>
+  <summary>SRS - Click to Expand</summary>
+  <br>
+  
+  ### Note
+  Only **you** can make this decision. Do your own research and come to your own conclusion. 
+  Do not let the words of transphobes on the internet affect your decision. 
+  
+  ### Surgery: A guide for MTFs
+  A very informative PDF on SRS and the experiences surrounding the process. 
+  
+The following is taken verbatim from their introduction.
+
+This booklet aims to:
+- describe options for MTF SRS
+- explain possible risks and complications of MTF SRS
+- describe what to expect before and after MTF SRS
+- explore issues to consider in making the decision to have SRS
+
+[http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf](http://lgbtqpn.ca/wp-content/uploads/woocommerce_uploads/2014/08/Surgery-MTF.pdf)
+
+### TransSurgeriesWiki
+They have a list of information and results on surgeons around the world. 
+
+Warning, NSFW.
+
+[https://www.reddit.com/r/TransSurgeriesWiki/wiki/index](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index)
 </details>
